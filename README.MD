@@ -21,7 +21,7 @@ Dynamicity in Traffic Forecasting. In International Conference on Internet-of-Th
 ```
 @inproceedings{prabowo2023GSWaN,
   title={Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in Traffic Forecasting},
-  author={Li, Yaguang and Yu, Rose and Shahabi, Cyrus and Liu, Yan},
+  author={Arian Prabowo and Wei Shao and Hao Xue and Piotr Koniusz and Flora D. Salim},
   booktitle={International Conference on Internet-of-Things Design and Implementation (IoTDI ’23)},
   doi={10.1145/3576842.358236},
   url={https://github.com/aprbw/G-SWaN},
