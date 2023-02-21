@@ -1,6 +1,6 @@
 **UNDER CONSTRUCTION**
 
-# G-SWaN: Graph Self-attention WaveNet for traffic forecasting
+# G-SWaN: Graph Self-attention WaveNet for Traffic Forecasting
 
 ![System Architecture](/GAWN_sysarch02.png)
 
