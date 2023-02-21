@@ -15,9 +15,11 @@ This is the official PyTorch implementation of the following paper: [Because Eve
 # Cite
 
 ```
-Arian Prabowo, Wei Shao, Hao Xue, Piotr Koniusz, and Flora D. Salim. 2023. Because Every Sensor Is Unique, so Is Every Pair: Handling
-Dynamicity in Traffic Forecasting. In International Conference on Internet-of-Things Design and Implementation (IoTDI ’23), May 9–12,
-2023, San Antonio, TX, USA. ACM, New York, NY, USA, 20 pages. https://doi.org/10.1145/3576842.358236
+Arian Prabowo, Wei Shao, Hao Xue, Piotr Koniusz, and Flora D. Salim. 2023.
+Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in Traffic Forecasting.
+In International Conference on Internet-of-Things Design and Implementation (IoTDI ’23),
+May 9–12, 2023, San Antonio, TX, USA. ACM, New York, NY, USA, 20 pages.
+https://doi.org/10.1145/3576842.358236
 ```
 
 ```
