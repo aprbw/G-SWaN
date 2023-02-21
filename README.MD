@@ -2,6 +2,8 @@
 
 # G-SWaN: Graph Self-attention WaveNet for traffic forecasting
 
+![System Architecture](/GAWN_sysarch02.png)
+
 This is the official PyTorch implementation of the following paper: [Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in Traffic Forecasting](https://arxiv.org/abs/2302.09956). In IoTDI ’23.
 
 # Requirements
