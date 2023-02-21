@@ -6,6 +6,8 @@
 
 This is the official PyTorch implementation of the following paper: [Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in Traffic Forecasting](https://arxiv.org/abs/2302.09956). In IoTDI ’23.
 
+If you are interested in traffic forecasting, check out my collection of traffic forecasting papers: https://github.com/aprbw/traffic_prediction.
+
 # Requirements
 
 # Data preparation
