@@ -16,6 +16,7 @@ If you are interested in traffic forecasting, check out my collection of traffic
 
 # Cite
 
+Harvard:
 ```
 Arian Prabowo, Wei Shao, Hao Xue, Piotr Koniusz, and Flora D. Salim. 2023.
 Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in Traffic Forecasting.
@@ -24,6 +25,7 @@ May 9–12, 2023, San Antonio, TX, USA. ACM, New York, NY, USA, 20 pages.
 https://doi.org/10.1145/3576842.358236
 ```
 
+BibTeX
 ```
 @inproceedings{prabowo2023GSWaN,
   title={Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in Traffic Forecasting},
