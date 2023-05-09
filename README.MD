@@ -12,9 +12,13 @@ If you are interested in traffic forecasting, check out my collection of traffic
 
 python==3.7.4
 
-numpy==1.17.2  
+
+numpy==1.17.2
+
 pandas==1.1.1
+
 scipy==1.3.1
+
 torch==1.5.1
 
 # Data preparation
