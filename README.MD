@@ -6,6 +6,10 @@ This is the official PyTorch implementation of the following paper: [Because Eve
 
 If you are interested in traffic forecasting, check out my collection of traffic forecasting papers: https://github.com/aprbw/traffic_prediction.
 
+# Abstract
+
+Traffic forecasting is a critical task to extract values from cyber-physical infrastructures, which is the backbone of smart transportation. However owing to external contexts, the dynamics at each sensor are unique. For example, the afternoon peaks at sensors near schools are more likely to occur earlier than those near residential areas. In this paper, we first analyze real-world traffic data to show that each sensor has a unique dynamic. Further analysis also shows that each pair of sensors also has a unique dynamic. Then, we explore how node embedding learns the unique dynamics at every sensor location. Next, we propose a novel module called Spatial Graph Transformers (SGT) where we use node embedding to leverage the self-attention mechanism to ensure that the information flow between two sensors is adaptive with respect to the unique dynamic of each pair. Finally, we present Graph Self-attention WaveNet (G-SWaN) to address the complex, non-linear spatiotemporal traffic dynamics. Through empirical experiments on four real-world, open datasets, we show that the proposed method achieves superior performance on both traffic speed and flow forecasting.
+
 # Requirements
 
 python==3.7.4
@@ -57,12 +61,20 @@ https://doi.org/10.1145/3576842.358236
 BibTeX
 ```
 @inproceedings{prabowo2023GSWaN,
-  title={Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in Traffic Forecasting},
-  author={Arian Prabowo and Wei Shao and Hao Xue and Piotr Koniusz and Flora D. Salim},
-  booktitle={International Conference on Internet-of-Things Design and Implementation (IoTDI ’23)},
-  doi={10.1145/3576842.358236},
-  url={https://github.com/aprbw/G-SWaN},
-  address={San Antonio, TX, USA. ACM, New York, NY, USA},
-  year={2023}
+author = {Prabowo, Arian and Shao, Wei and Xue, Hao and Koniusz, Piotr and Salim, Flora D.},
+title = {Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in Traffic Forecasting},
+year = {2023},
+isbn = {9798400700378},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3576842.3582362},
+doi = {10.1145/3576842.3582362},
+abstract = {Traffic forecasting is a critical task to extract values from cyber-physical infrastructures, which is the backbone of smart transportation. However owing to external contexts, the dynamics at each sensor are unique. For example, the afternoon peaks at sensors near schools are more likely to occur earlier than those near residential areas. In this paper, we first analyze real-world traffic data to show that each sensor has a unique dynamic. Further analysis also shows that each pair of sensors also has a unique dynamic. Then, we explore how node embedding learns the unique dynamics at every sensor location. Next, we propose a novel module called Spatial Graph Transformers (SGT) where we use node embedding to leverage the self-attention mechanism to ensure that the information flow between two sensors is adaptive with respect to the unique dynamic of each pair. Finally, we present Graph Self-attention WaveNet (G-SWaN) to address the complex, non-linear spatiotemporal traffic dynamics. Through empirical experiments on four real-world, open datasets, we show that the proposed method achieves superior performance on both traffic speed and flow forecasting. Code is available at: https://github.com/aprbw/G-SWaN},
+booktitle = {Proceedings of the 8th ACM/IEEE Conference on Internet of Things Design and Implementation},
+pages = {93–104},
+numpages = {12},
+keywords = {sensor networks, cyber-physical systems, intelligent transport systems, spatio-temporal},
+location = {San Antonio, TX, USA},
+series = {IoTDI '23}
 }
 ```
