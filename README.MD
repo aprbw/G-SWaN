@@ -18,7 +18,15 @@ scipy==1.3.1
 torch==1.5.1
 ```
 
-# Data preparation
+# Data
+
+Due to size conern, only the smallest dataset (PeMS-08) is included in this repo. The other three datsets can be found by following the instructions below:
+
+The dataset for METR-LA and PeMS-BAY can be downloaded by following the instruction from the [DCRNN github page](https://github.com/liyaguang/DCRNN/tree/master).
+
+The dataset for PeMS-04 (and also PeMS-08) can be downloaded by following the instruction from the [ASTGCN github page](https://github.com/Davidham3/ASTGCN/tree/master) or the [STSGCN github page](https://github.com/Davidham3/STSGCN).
+
+You can find more traffic datasets (not used in the paper) from my collection: https://github.com/aprbw/traffic_prediction
 
 # Run
 
