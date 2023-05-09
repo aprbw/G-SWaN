@@ -30,8 +30,18 @@ You can find more traffic datasets (not used in the paper) from my collection: h
 
 # Run
 
-Check this file: /run_pems08.txt
+Check this file: (/run_pems08.txt)
 This includes the hyperparameters.
+All datasets have the same hyperparameters.
+However, don't forget to change these arguments:
+```
+--adjdata
+--data_fn
+--device
+--enb_output_filepath
+--project_name
+--run_name
+```
 
 # Cite
 
