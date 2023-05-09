@@ -1,0 +1,51 @@
+python3 ./run.py \
+--activation mish \
+--addaptadj True \
+--adjdata adj_mx_pemsd8.pkl \
+--adjtype doubletransition \
+--apt_size 40 \
+--augment_occlude_spatial_probability 0.05 \
+--augment_occlude_spatial_scale 0.05 \
+--augment_occlude_temporal_probability 0.0 \
+--augment_occlude_temporal_scale 0.0 \
+--augment_scramble_spatial_probability 0.0 \
+--augment_scramble_temporal_probability 0.05 \
+--augment_swap_spatial_k 0 \
+--augment_swap_temporal_k 0 \
+--augment_uniform_noise_scale 0.05 \
+--batch_size 66 \
+--cat_feat_gc True \
+--clip 3 \
+--data_fn pems08.npz \
+--device cuda \
+--do_graph_conv \
+--dropout 0.3 \
+--enb_output_filepath ./ \
+--epochs 100 \
+--es_patience 20 \
+--fill_zeroes \
+--frac_train 1.0 \
+--gcn_head_aggregate CAT \
+--gcn_n_head 3 \
+--in_dim 2 \
+--is_batch_norm True \
+--is_gat True \
+--is_gcn_attention False \
+--is_pad_at_engine False \
+--learning_rate 0.001 \
+--lr_decay_rate 0.97 \
+--nhid 40 \
+--num_nodes 170 \
+--project_name G-SWaN \
+--randomadj \
+--run_name e06_11 \
+--save ./ \
+--scheduler_factor 0.4 \
+--scheduler_patience 10 \
+--seed 42 \
+--seq_length 12 \
+--softmax_temp 7.0 \
+--spatial_PE_gcn True \
+--sweep_name test \
+--verbose 30 \
+--weight_decay 0.000
