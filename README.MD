@@ -41,6 +41,8 @@ However, don't forget to change these arguments:
 --enb_output_filepath
 --project_name
 --run_name
+--save
+--sweep_name
 ```
 
 # Cite
