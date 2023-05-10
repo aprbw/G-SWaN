@@ -2,7 +2,7 @@
 
 ![System Architecture](/GAWN_sysarch02.png)
 
-This is the official PyTorch implementation of the following paper: [**Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in Traffic Forecasting**](https://arxiv.org/abs/2302.09956). In IoTDI ’23. [ [slides](/2023 05 10 CPS-IoT IoTDI G-SWaN.pptx) ].
+This is the official PyTorch implementation of the following paper: [**Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in Traffic Forecasting**](https://arxiv.org/abs/2302.09956). In IoTDI ’23. [ [slides](/20230510_CPS-IoT_IoTDI_G-SWaN.pptx) ].
 
 If you are interested in traffic forecasting, check out my collection of traffic forecasting papers: https://github.com/aprbw/traffic_prediction.
 
