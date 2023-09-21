@@ -80,3 +80,6 @@ location = {San Antonio, TX, USA},
 series = {IoTDI '23}
 }
 ```
+
+![
+fund_diags_18days](fund_diags_18days_c.gif )
