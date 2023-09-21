@@ -81,6 +81,10 @@ series = {IoTDI '23}
 }
 ```
 
-![fund diag](fund_diag_node - Copy (6)(1).gif)
+# Animated version of Figure 2(b) and (c)
 
-![fund_diags_18days](fund_diags_18days_c.gif)
+Fundamental diagrams shows the dynamics between flow (density) in the x-axis and speed (velocity) in the y-axis. Figure 2(b) shows the real-world data, while Figure 2(c) shows that every sensor has a unique fundamental diagram, suggesting a unique underlying dynamics. The PeMS-D4 dataset is detailed in section 4.1.
+
+![fund diag node 1](fund_diag_node1.gif) Fundamental diagram of a sensor in PeMS-D4 dataset.
+
+![fund_diags_18days](fund_diags_18days_c.gif) Fundamental diagrams of 12 selected sensors in PeMS-D4 dataset showing great diversity.
