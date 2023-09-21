@@ -87,4 +87,4 @@ Fundamental diagrams shows the dynamics between flow (density) in the x-axis and
 
 ![fund diag node 1](fund_diag_node1.gif) Fundamental diagram of a sensor in PeMS-D4 dataset.
 
-![fund_diags_18days](fund_diags_18days_c.gif) Fundamental diagrams of 12 selected sensors in PeMS-D4 dataset showing great diversity.
+![fund_diags_18days](fund_diags_18days_c.gif) Fundamental diagrams of 25 selected sensors in PeMS-D4 dataset showing great diversity.
