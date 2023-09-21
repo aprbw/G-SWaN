@@ -81,5 +81,6 @@ series = {IoTDI '23}
 }
 ```
 
-![
-fund_diags_18days](fund_diags_18days_c.gif )
+![fund diag](fund_diag_node - Copy (6)(1).gif)
+
+![fund_diags_18days](fund_diags_18days_c.gif)
