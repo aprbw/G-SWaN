@@ -4,7 +4,7 @@
 
 # Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in Traffic Forecasting
 
-This is the official PyTorch implementation of the following paper: [**Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in Traffic Forecasting**]([https://arxiv.org/abs/2302.09956](https://dl.acm.org/doi/10.1145/3576842.3582362)). In IoTDI ’23. [[slides](/20230510_CPS-IoT_IoTDI_G-SWaN.pdf)] [[ArXiv](https://arxiv.org/abs/2302.09956)] [[Talk](https://youtu.be/rCBQ50ZXI0Y)].
+This is the official PyTorch implementation of the following paper: [**Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in Traffic Forecasting**]([https://arxiv.org/abs/2302.09956](https://dl.acm.org/doi/10.1145/3576842.3582362)). In IoTDI ’23. [[slides](/20230510_CPS-IoT_IoTDI_G-SWaN.pdf)] [[ArXiv](https://arxiv.org/abs/2302.09956)] [[Talk](https://youtu.be/rCBQ50ZXI0Y)] [[FigShare](https://figshare.com/s/f7022d979540b8511dee)].
 
 If you are interested in traffic forecasting, check out my collection of traffic forecasting papers: https://github.com/aprbw/traffic_prediction . Check also our next work where we use contrastive learning to find the node embedding of new roads https://github.com/cruiseresearchgroup/forecasting-on-new-roads .
 
